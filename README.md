@@ -5,13 +5,13 @@ Uma aplicação simples e intuitiva para gerenciar suas tarefas diárias. Este p
 ## Funcionalidades
 
 ### Atuais
-- ✅ Adicionar novas tarefas
-- ✅ Marcar tarefas como concluídas
-- ✅ Remover tarefas
-- ✅ Persistência de dados (localStorage)
 - ✅ Interface responsiva e amigável
+- ✅ Marcar tarefas como concluídas
 
 ### Futuras
+- 🔄 Adicionar novas tarefas
+- 🔄 Remover tarefas
+- 🔄 Persistência de dados (localStorage)
 - 🔄 Categorias para organizar tarefas
 - 🔄 Filtros e busca
 - 🔄 Notificações e lembretes
